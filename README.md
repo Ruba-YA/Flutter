@@ -1,6 +1,6 @@
-# lab1
+# Lab 1
 
-A new Flutter project.
+A new Flutter project. Working with images and route
 
 ## Getting Started
 
